@@ -50,6 +50,21 @@ h1 {
     text-shadow: #000000 0px 0px 13px;
  }
 
+/* img{
+	max width: ;
+} */
+
+
+
+#logo{ 
+	position:fixed; 
+	width: 20%;
+	top:0; 
+	left:0; 
+	background-size: 1px;
+	
+	height: 2px;
+} 
 /*.github-corner:hover .octo-arm {
   	animation: octocat-wave 560ms ease-in-out;
 }*/
